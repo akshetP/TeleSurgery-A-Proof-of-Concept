@@ -39,17 +39,25 @@ The entire methodology followed for this research project is summarised in five 
 5.	Creating a ROS Package for Simulating the Arm in Gazebo
 
 ## Implementation and Results
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_video/Demonstration%20Video.mp4)
-[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=65jHtXySaQw)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/1.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/2.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/3.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/4.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/5.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/6.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/7.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/8.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/9.jpeg)
+
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/10.jpeg)
 
 ## Conclusion
