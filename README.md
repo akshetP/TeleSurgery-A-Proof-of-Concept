@@ -39,7 +39,7 @@ The entire methodology followed for this research project is summarised in five 
 5.	Creating a ROS Package for Simulating the Arm in Gazebo
 
 ## Implementation and Results
-![](<iframe width="900" height="506" src="https://www.youtube.com/embed/65jHtXySaQw" title="TeleSurgery - A Proof of Concept" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_video/Demonstration%20Video.mp4)
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/1.jpeg)
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/2.jpeg)
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/3.jpeg)
