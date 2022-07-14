@@ -40,6 +40,7 @@ The entire methodology followed for this research project is summarised in five 
 
 ## Implementation and Results
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_video/Demonstration%20Video.mp4)
+[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=65jHtXySaQw)
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/1.jpeg)
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/2.jpeg)
 ![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/3.jpeg)
