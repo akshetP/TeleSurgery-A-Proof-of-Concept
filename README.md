@@ -10,7 +10,7 @@ I would further like to thank my home university, Manipal University Jaipur for 
 I would like to express my gratitude to Dr. Shahbaz Ahmed Siddiqui, HoD, Department of  Mechatronics Engineering for his constant support and motivation.
 I take this opportunity to thank my internal guide and mentor, Dr. Princy Randhawa, Assistant Professor (Senior Scale), Department of Mechatronics Engineering, Manipal University Jaipur for her constant  help, guidance, and support without whom I would not have chosen this project research.
 I would like to thank Dr. Raja Rout, Former Assistant Professor, Department of Mechatronics Engineering, Manipal University Jaipur for assisting me with the concepts of Robotics and ROS.
-I would further like to thank and mention Mr. Siddharth Varshney,  Mr. Abhay Tripathi and Mr. Konstantinos Tsaramirsis and Mr. Vanshaj Arora, and Mr. Jasmeet Singh for their support and assistance  in the XR Domain.
+I would further like to thank and mention Mr. Siddharth Varshney,  Mr. Abhay Tripathi and Mr. Konstantinos Tsaramirsis and Mr. Vanshaj Arora, and Mr. Jasmeet Singh for their support and assistance in the XR Domain.
 
 ## Motivation
 Telesurgery allows patients who are unable to travel vast distances to get safe and precise surgical operations. This kind of surgery is becoming increasingly viable as robots and wireless communication technologies progres.
