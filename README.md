@@ -39,27 +39,28 @@ The entire methodology followed for this research project is summarised in five 
 5.	Creating a ROS Package for Simulating the Arm in Gazebo
 
 ## Implementation and Results
-https://user-images.githubusercontent.com/65809238/179390846-3985377b-1eca-4462-b47e-b21032539d74.mp4
+![](/demo_video/Demonstration%20Video.mp4)
+<!-- https://user-images.githubusercontent.com/65809238/179390846-3985377b-1eca-4462-b47e-b21032539d74.mp4 -->
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/1.jpeg)
+![](/demo_images/1.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/2.jpeg)
+![](/demo_images/2.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/3.jpeg)
+![](/demo_images/3.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/4.jpeg)
+![](/demo_images/4.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/5.jpeg)
+![](/demo_images/5.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/6.jpeg)
+![](/demo_images/6.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/7.jpeg)
+![](/demo_images/7.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/8.jpeg)
+![](/demo_images/8.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/9.jpeg)
+![](/demo_images/9.jpeg)
 
-![](https://github.com/AkshetPatel/TeleSurgery-A-Proof-of-Concept/blob/main/demo_images/10.jpeg)
+![](/demo_images/10.jpeg)
 
 ## Conclusion
 Using the entire system developed, the Niryo One Robotic Arm is visualised and controlled in the VR using the Oculus Quest controllers. The IP address of the ROS Server is entered using the keypad developed in VR. When the ROS Server is initialized, the HMD is connected to the laptop running the Gazebo simulation of the arm and ROS node over the TCP protocol on the same Wi-Fi network. The Arm moves in the exact same way as it is actuated using the controllers in the VR. In conclusion, 
